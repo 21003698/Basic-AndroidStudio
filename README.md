@@ -83,6 +83,20 @@ public class MainActivity extends AppCompatActivity {
 
 ### Output:
 
+<img width="1440" alt="1" src="https://user-images.githubusercontent.com/93427522/190354780-18c3a3de-74e0-42f2-afed-45b7bc918392.png">
+
+<img width="1440" alt="2" src="https://user-images.githubusercontent.com/93427522/190354859-2ce6ef6a-f372-4457-9bdf-263f2c805beb.png">
+
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/93427522/190354920-a8d11921-4a9d-4c06-a568-dd185127b0f1.png">
+
+<img width="1440" alt="4" src="https://user-images.githubusercontent.com/93427522/190354941-65e779ae-7672-44c5-ae7e-0c60629c1715.png">
+
+<img width="1440" alt="5" src="https://user-images.githubusercontent.com/93427522/190354980-055db276-e06f-42f7-a3b5-efa56e2baa82.png">
+
+<img width="1440" alt="6" src="https://user-images.githubusercontent.com/93427522/190355033-1a0e4f3a-848f-4957-ba6d-6c764450e60c.png">
+
+<img width="1440" alt="7" src="https://user-images.githubusercontent.com/93427522/190355117-6d28377e-a298-4855-8ca0-f9a93c931f57.png">
+
 
 ### Result:
 Therefore a program is return to develop a program to detect the various life cycles of an activity. The program is successfully executed.
