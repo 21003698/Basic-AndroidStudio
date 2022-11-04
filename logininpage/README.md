@@ -192,9 +192,15 @@ public class MainActivity extends AppCompatActivity {
 
 <img width="316" alt="MainActivity java" src="https://user-images.githubusercontent.com/93427522/199949764-ba526a9a-5250-4e0c-bdc1-0d8994399bed.png">
 
+![Screenshot (11)](https://user-images.githubusercontent.com/93427522/199950496-af8c1a71-f0f3-4abd-af5b-2df6b2b6c37a.png)
+
+
 ### activity_main.xml
 
 <img width="314" alt="activity_main xml" src="https://user-images.githubusercontent.com/93427522/199949795-d16df9d7-f0ae-47db-ac76-4fbed2cd1052.png">
+
+![Screenshot (12)](https://user-images.githubusercontent.com/93427522/199950532-b8067ca6-1d8b-4c5c-8617-6acfadf440ed.png)
+
 
 ### RESULT
 Thus a Simple Android Application develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio is developed and executed successfully.
