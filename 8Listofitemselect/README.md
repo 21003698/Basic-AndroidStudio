@@ -30,7 +30,7 @@ Step 7: Save and run the application.
 /*
 Program to display check list item”.
 Developed by:Challa Sandeep
-Registeration Number :
+Registeration Number : 212221240011
 */
 ```
 MainActivity.java
@@ -150,8 +150,13 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+<img width="1440" alt="1" src="https://user-images.githubusercontent.com/93427522/200036749-4ccef49c-1343-468b-9a28-79536d8dfc1d.png">
 
+<img width="479" alt="2" src="https://user-images.githubusercontent.com/93427522/200036849-43d8cba5-aebd-468c-a44e-f891b3ce9e90.png">
 
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/93427522/200036920-662f7a2d-edb0-40d6-b02e-b71bb0e1cb76.png">
+
+<img width="474" alt="4" src="https://user-images.githubusercontent.com/93427522/200036966-50f5de04-b0c1-4783-87b9-d31f53a3fb33.png">
 
 ## RESULT
 Thus a Simple Android Application create a list using checkbox to display selected checkbox using Android Studio is developed and executed successfully.
