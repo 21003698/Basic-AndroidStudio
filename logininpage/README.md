@@ -27,9 +27,9 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 */
-Program to display login page.
-### Developed by:Challa Sandeep
-### Registeration Number:212221240011
+#Program to display login page.
+#Developed by:Challa Sandeep
+#Registeration Number:212221240011
 /*
 
 ### MainActivity.java
