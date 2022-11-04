@@ -26,11 +26,11 @@ Step 6: Accept username and password from the end user and the display informati
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
+*/
 Program to display login page.
 ### Developed by:Challa Sandeep
 ### Registeration Number:212221240011
-*/
+/*
 
 ### MainActivity.java
 ```
