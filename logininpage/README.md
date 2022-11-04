@@ -24,12 +24,12 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Accept username and password from the end user and the display information give in MainActivity file.
 
 Step 7: Save and run the application.
-
-## PROGRAM:
+ 
+### PROGRAM:
 */
-#Program to display login page.
-#Developed by:Challa Sandeep
-#Registeration Number:212221240011
+### Program to display login page.
+### Developed by:Challa Sandeep
+### Registeration Number:212221240011
 /*
 
 ### MainActivity.java
