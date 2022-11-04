@@ -190,11 +190,11 @@ public class MainActivity extends AppCompatActivity {
 
 ### MainActivity.java
 
-![Screenshot (11)](https://user-images.githubusercontent.com/93427522/199948907-1cadbcde-d6ff-4ff2-931d-b9d8b10f0fdc.png)
+<img width="316" alt="MainActivity java" src="https://user-images.githubusercontent.com/93427522/199949764-ba526a9a-5250-4e0c-bdc1-0d8994399bed.png">
 
 ### activity_main.xml
 
-![Screenshot (12)](https://user-images.githubusercontent.com/93427522/199948915-8f06a49e-ef9a-4b59-ae70-62ff8c21d80f.png)
+<img width="314" alt="activity_main xml" src="https://user-images.githubusercontent.com/93427522/199949795-d16df9d7-f0ae-47db-ac76-4fbed2cd1052.png">
 
-## RESULT
+### RESULT
 Thus a Simple Android Application develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio is developed and executed successfully.
